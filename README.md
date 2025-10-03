@@ -12,6 +12,7 @@ This project is a simple whatsapp webhook service using nestjs as the framework 
 6. Scan the qr code shown in the whatsapp web interface to connect to whatsapp
 7. Send a message to the whatsapp number that is connected to the service
 8. Verify that the message is received by the service and logged in the console.
+9. You can try this service by opening `localhost:port/api` in your web browser.
 ## What is this app for?
 
 This app is designed to help users easily setup whatsapp webhook service using nestjs as the framework and baileys as the whatsapp client library. With this app, users can easily connect to whatsapp and receive messages sent to the whatsapp number that is connected to the service.
