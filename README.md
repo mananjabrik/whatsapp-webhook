@@ -26,7 +26,6 @@ The app is designed to be used as a starting point for users who want to build m
 
 * Get message: get the latest message sent to the whatsapp number that is connected to the service
 * Get group: get the group information of the whatsapp group that the service is connected to
-* Call: make a voice or video call to a whatsapp number
 * Get media: get the media sent to the whatsapp number that is connected to the service
 * Send media: send a media to a whatsapp number
 * Get all messages: get all messages sent to the whatsapp number that is connected to the service
